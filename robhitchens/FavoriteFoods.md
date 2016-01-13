@@ -1,4 +1,4 @@
 #Favorite Foods
-Pizza
-Cheeseburgers
-Ramen
+-Pizza
+-Cheeseburgers
+-Ramen
