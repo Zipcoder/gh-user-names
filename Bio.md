@@ -1,0 +1,1 @@
+I am john, I grew up in wilmington delaware, and went to school at salesianum, and University of delaware.  I like to go skiing, snowboarding and surfing.  I swam compepetively for 15 years.  I am currently in a coding bootcamp "zipcode wilmington".
