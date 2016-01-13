@@ -1,8 +1,8 @@
 ###John Benge
 
 #####Skills
-*Game design
-*C#
-*LUA
-*Unity
-*Unreal
+* Game design
+* C#
+* LUA
+* Unity
+* Unreal

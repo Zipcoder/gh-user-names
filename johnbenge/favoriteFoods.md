@@ -1,3 +1,3 @@
-*Buffalo Chicken
-*chicken wings
-*guacamole
+* Buffalo Chicken
+* chicken wings
+* guacamole
