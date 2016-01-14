@@ -1,0 +1,8 @@
+-My Name is Lucky
+-I like Fried Rice
+-I like to eat it
+-Every Night
+-When there's not party
+-I Like to Dance
+-I Make it Rain
+-That's my Parlance
